@@ -1,0 +1,33 @@
+.\objects\accfilter.o: hardware\AccFilter.c
+.\objects\accfilter.o: .\start\stm32f10x.h
+.\objects\accfilter.o: .\start\core_cm3.h
+.\objects\accfilter.o: D:\learn\keil\keil\Keil5 MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\accfilter.o: .\start\system_stm32f10x.h
+.\objects\accfilter.o: .\user\stm32f10x_conf.h
+.\objects\accfilter.o: .\library\stm32f10x_adc.h
+.\objects\accfilter.o: .\start\stm32f10x.h
+.\objects\accfilter.o: .\library\stm32f10x_bkp.h
+.\objects\accfilter.o: .\library\stm32f10x_can.h
+.\objects\accfilter.o: .\library\stm32f10x_cec.h
+.\objects\accfilter.o: .\library\stm32f10x_crc.h
+.\objects\accfilter.o: .\library\stm32f10x_dac.h
+.\objects\accfilter.o: .\library\stm32f10x_dbgmcu.h
+.\objects\accfilter.o: .\library\stm32f10x_dma.h
+.\objects\accfilter.o: .\library\stm32f10x_exti.h
+.\objects\accfilter.o: .\library\stm32f10x_flash.h
+.\objects\accfilter.o: .\library\stm32f10x_fsmc.h
+.\objects\accfilter.o: .\library\stm32f10x_gpio.h
+.\objects\accfilter.o: .\library\stm32f10x_i2c.h
+.\objects\accfilter.o: .\library\stm32f10x_iwdg.h
+.\objects\accfilter.o: .\library\stm32f10x_pwr.h
+.\objects\accfilter.o: .\library\stm32f10x_rcc.h
+.\objects\accfilter.o: .\library\stm32f10x_rtc.h
+.\objects\accfilter.o: .\library\stm32f10x_sdio.h
+.\objects\accfilter.o: .\library\stm32f10x_spi.h
+.\objects\accfilter.o: .\library\stm32f10x_tim.h
+.\objects\accfilter.o: .\library\stm32f10x_usart.h
+.\objects\accfilter.o: .\library\stm32f10x_wwdg.h
+.\objects\accfilter.o: .\library\misc.h
+.\objects\accfilter.o: hardware\AccFilter.h
+.\objects\accfilter.o: hardware\MPU6050.h
+.\objects\accfilter.o: D:\learn\keil\keil\Keil5 MDK\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
